@@ -1,6 +1,7 @@
 function main()
 {
-    forward(100);
-    alert("Hello, world!");
+
+goto(250,250)
+right(135)
+forward(353.55)
 }
-getHeight(200)
