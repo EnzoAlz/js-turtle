@@ -2,7 +2,28 @@ function main()
 {
 
 goto(250,250)
-right(135)
-forward(353.55)
-Forward(353.55)
+goto(0,0)
+
+
+rectangle(20,10)
+forward(height)
+right(90);
+forward(width)
+right(90)
+forward(height)
+right(90)
+forward(width)
+
+rectangle(20,10)
+//rectangle()
+{
+    function straif(distance)
+}
+    
+penup();
+right(90)
+forward(20)
+right(270)
+pendown();
+rectangle(20,10)
 }
