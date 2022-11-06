@@ -4,7 +4,8 @@ function main()
 goto(250,250)
 goto(0,0)
 
-
+var height=100
+var width=250
 rectangle(20,10)
 forward(height)
 right(90);
