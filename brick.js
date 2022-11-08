@@ -32,7 +32,9 @@ function main()
         colour(194,74,12,1)
     
 
-
+/*
+*Below are my only 2 variables different from the rest. I have them here to allow for me to go back easier.
+*/
         var height=20
         var width=10
         
