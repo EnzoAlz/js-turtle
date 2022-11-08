@@ -4,13 +4,14 @@ function main()
     pendown();
 /*
 *below is my variables.
+I created the bricks. All other objects were made by my teamates. 
 *I have them here so it is easier to find them when needed. 
 */
     var minX  = -getWidth()/2
     var minY  =  -getHeight()/2
     var maxY  =  getHeight()/2
     var maxX  =  getWidth()/2
-    var bricksNumber= prompt()
+    var bricksNumber= prompt("How many brick faces do you want on the bottom of the screen? 13 fills the bottom row.")
 
 
 
@@ -110,4 +111,7 @@ function main()
     right(180)
     forward(height)
     right(270)
+    /*
+    *Conrats! You made it to the bottom of my code.
+    */
  }
