@@ -18,7 +18,6 @@ I created the bricks. All other objects were made by my teamates.
 
 
 
-
     goto(minX,minY)    
     for(var i = 0; i < bricksNumber; i++)
     {
@@ -93,6 +92,8 @@ I created the bricks. All other objects were made by my teamates.
         forward(width)
         right(180)
         }
+
+        
     }
     /*
     *Below is how to make 1 single rectangle.
